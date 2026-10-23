@@ -1,0 +1,6 @@
+Binary use case
+Source: external/06_run_logreg_pilots.R
+Run from the project directory: source("run/09_run_correlation_binary_checks.R")
+Packages: glmnet, ranger, xtable.
+Outputs: outputs/binary_check/binary_tables.tex and session_info.txt.
+The tables summarize outcome prevalence and RF out-of-bag classification error.

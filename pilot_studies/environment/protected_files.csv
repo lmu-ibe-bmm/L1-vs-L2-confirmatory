@@ -1,0 +1,5 @@
+path,size_bytes,md5
+R/reproduce_figures_cor_summaries.R,3565,955b04097c2b43fb5a70ba8c260c6e05
+R/run_logreg_pilots.R,5096,214efea7d595bf8d53dc8955642e603c
+results/cor_summaries/cond_cor_mat.pdf,9422,e5e6060f04587903b92039dab9a06bab
+results/cor_summaries/det_cor_mat.pdf,9136,dcc55a3dfc2c83289e9159283ca08c38
