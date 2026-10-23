@@ -1,0 +1,11 @@
+192 settings, 500 completed precision repetitions per setting.
+Maximum integer R requirement: 5242
+Maximum rounded upward to 100: 5300
+Setting ID at the maximum: 50
+Selected main-study R: 5300
+Selection rule: complete R500 pilot maximum, rounded upward to 100.
+The separate R100 RF check is a sensitivity analysis, not the selection pilot.
+Rounding scenarios are not uncertainty bounds or automatic decisions.
+These are RF/LASSO-based planning values, not measured Ridge-LASSO MCSEs.
+Runtime days assume continuous operation. Shutdowns add calendar time.
+Runtime source: outputs/runtime_pilot/runtime_pilot_2026-10-20_11-21-56.rds

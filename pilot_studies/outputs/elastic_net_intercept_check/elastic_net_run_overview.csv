@@ -1,0 +1,2 @@
+"version","expected_batch_tasks","expected_model_fits","n_result_rows","n_successful_model_rows","n_failed_rows","n_selected_settings","repetitions_per_setting","models","alphas","analysis_note"
+"1.1.0",600,1200,1200,1200,0,12,50,"EN_alpha_0.95,EN_alpha_1over3","0.9500000000000000,0.3333333333333333","Targeted diagnostic follow-up. Each EN is compared only with intercept/oracle. No Ridge is fit and no pairwise EN/Ridge/LASSO contrast is a target. CIs are descriptive."
