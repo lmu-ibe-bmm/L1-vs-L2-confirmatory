@@ -30,7 +30,7 @@ If the working directory already points to this folder:
 source("update_planning.R")
 ```
 
-The selected plan is in `outputs/planning_summary/main_study_plan.csv`. Start with [00_START_HERE.txt](pilot_studies/00_START_HERE.txt). [01_RUN_GUIDE.md](pilot_studies/01_RUN_GUIDE.md) explains prerequisites, the purpose and output of every launcher, completed-result reuse and restarting individual checks. It assumes basic R and statistics knowledge, without prior familiarity with this code. [07_RESULTS.md](pilot_studies/07_RESULTS.md) explains the results and the choice of R.
+The selected plan is in `outputs/planning_summary/main_study_plan.csv`. Start with [00_START_HERE.txt](00_START_HERE.txt). [01_RUN_GUIDE.md](01_RUN_GUIDE.md) explains prerequisites, the purpose and output of every launcher, completed-result reuse and restarting individual checks. It assumes basic R and statistics knowledge, without prior familiarity with this code. [07_RESULTS.md](07_RESULTS.md) explains the results and the choice of R.
 
 ## Project contents
 
@@ -57,4 +57,4 @@ For an interrupted precision or RF pilot, use `source("status.R")` and `source("
 
 The folder contains the code and results for the planning pilots and checks discussed so far. The main confirmatory simulation and its hypothesis analysis have not been run by these scripts.
 
-The binary use case extends the Gaussian response model to a Bernoulli outcome with a logistic link. [05_BINARY_USE_CASE.md](pilot_studies/05_BINARY_USE_CASE.md) explains the extension, its prevalence and RF summaries, the shared correlation figures and the coefficient construction and scaling.
+The binary use case extends the Gaussian response model to a Bernoulli outcome with a logistic link. [05_BINARY_USE_CASE.md](05_BINARY_USE_CASE.md) explains the extension, its prevalence and RF summaries, the shared correlation figures and the coefficient construction and scaling.
