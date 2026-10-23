@@ -1,0 +1,26 @@
+R version 4.5.0 (2025-04-11)
+Platform: x86_64-pc-linux-gnu
+Running under: Debian GNU/Linux 13 (trixie)
+
+Matrix products: default
+BLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 
+LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.29.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=de_DE.UTF-8       LC_NUMERIC=C               LC_TIME=de_DE.UTF-8        LC_COLLATE=de_DE.UTF-8    
+ [5] LC_MONETARY=de_DE.UTF-8    LC_MESSAGES=de_DE.UTF-8    LC_PAPER=de_DE.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C             LC_MEASUREMENT=de_DE.UTF-8 LC_IDENTIFICATION=C       
+
+time zone: Europe/Berlin
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ranger_0.17.0 xtable_1.8-4  glmnet_4.1-8  Matrix_1.7-3 
+
+loaded via a namespace (and not attached):
+ [1] compiler_4.5.0      tools_4.5.0         survival_3.8-3      rstudioapi_0.17.1   Rcpp_1.0.14         splines_4.5.0      
+ [7] codetools_0.2-20    grid_4.5.0          iterators_1.0.14    foreach_1.5.2       shape_1.4.6.1       RhpcBLASctl_0.23-42
+[13] lattice_0.22-7     

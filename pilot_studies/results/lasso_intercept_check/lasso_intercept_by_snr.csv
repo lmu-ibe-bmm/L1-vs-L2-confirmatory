@@ -1,0 +1,3 @@
+"snr","n_settings","min_mean_lasso_gain_vs_intercept","q25_mean_lasso_gain_vs_intercept","median_mean_lasso_gain_vs_intercept","q75_mean_lasso_gain_vs_intercept","max_mean_lasso_gain_vs_intercept","min_prop_lasso_beats_intercept","n_settings_lasso_gain_ci_lower_gt_0","n_settings_mean_lasso_gain_le_0","min_mean_lasso_fraction_oracle_gain","median_mean_lasso_fraction_oracle_gain","max_abs_analytic_snr_rel_error"
+0.5,6,-0.00126574382643672,-0.00109770488888121,-0.000740195522692194,0.000715474357461056,0.0242033787085087,0.1,1,4,-0.00373470389084391,-0.00226895733396712,1.33226762955019e-15
+2,6,-0.000560589908610973,0.00166715024225174,0.0117488090086371,0.0457243265083027,0.30631410631014,0.32,4,1,-0.000849713291031601,0.0175839084954105,1.4432899320127e-15
