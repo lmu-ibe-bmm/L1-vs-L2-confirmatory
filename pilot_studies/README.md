@@ -30,7 +30,7 @@ If the working directory already points to this folder:
 source("update_planning.R")
 ```
 
-The selected plan is in `outputs/planning_summary/main_study_plan.csv`. Start with [00_START_HERE.txt](00_START_HERE.txt). [01_RUN_GUIDE.md](01_RUN_GUIDE.md) explains prerequisites, the purpose and output of every launcher, completed-result reuse and restarting individual checks. It assumes basic R and statistics knowledge, without prior familiarity with this code. [07_RESULTS.md](07_RESULTS.md) explains the results and the choice of R.
+The selected plan is in `outputs/planning_summary/main_study_plan.csv`. Start with [00_START_HERE.md](00_START_HERE.md). [01_RUN_GUIDE.md](01_RUN_GUIDE.md) explains prerequisites, the purpose and output of every launcher, completed-result reuse and restarting individual checks. It assumes basic R and statistics knowledge, without prior familiarity with this code. [07_RESULTS.md](07_RESULTS.md) explains the results and the choice of R.
 
 ## Project contents
 
